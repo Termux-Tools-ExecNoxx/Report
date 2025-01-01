@@ -1,0 +1,21 @@
+How to ban Facebook id's
+
+$  apt update && apt upgrade
+
+$  apt install python
+
+$  apt install git
+
+$  git clone https://github.com/IlayTamvan/Report
+
+$  cd Report
+
+$  ls
+
+$  unzip Report.zip
+
+$  python2 Report.py
+
+With this tool you can ban facebook id's  but it varies as per the id, howl old the id, if it's new it will be banned easily but the old one takes time.
+
+Tip : Only for educational purpose don't misuse
